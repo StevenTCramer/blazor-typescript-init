@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\myclasslib\myclasslib.csproj" />
     <ProjectReference Include="..\Shared\hosted.Shared.csproj" />
   </ItemGroup>
 
